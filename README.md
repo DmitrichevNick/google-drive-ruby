@@ -1,5 +1,3 @@
-# google-drive-ruby [![Build Status](https://travis-ci.org/gimite/google-drive-ruby.svg?branch=master)](https://travis-ci.org/gimite/google-drive-ruby)
-
 This is a Ruby library to read/write files/spreadsheets in Google Drive/Docs.
 
 NOTE: This is NOT a library to create Google Drive App.
